@@ -1,5 +1,4 @@
 **`(Developer/Creator)`**
-<br />
 ### Welcome!
 I'm John Soto, a passionate and dedicated developer from New York who graduated with a Bachelor's degree in Computer Science. I have a strong passion for building innovative applications and websites that can make a positive impact on people's lives. I'm thrilled to share my journey, experiences, and projects with you.
 
