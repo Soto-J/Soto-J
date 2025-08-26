@@ -3,7 +3,9 @@ Full-Stack Developer | CS Graduate | NYC-Based
 
 I'm passionate about crafting digital experiences that make a real difference. Whether it's building scalable web applications, diving into new technologies, or solving complex problems with clean code, I'm always excited to take on the next challenge.
 
-🚀 What I'm Up To
+<div>
+    🚀 What I'm Up To
+</div>
 🔭 Currently working on git-gud racing
 🌱 Learning [current technology/skill you're exploring]
 👯 Looking to collaborate on innovative open-source projects
