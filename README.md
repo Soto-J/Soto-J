@@ -58,16 +58,15 @@
   <h3>🌟 Featured Projects</h3> 
   
   <h4>🏎️ GitGud Racing</h4>
-  <p>A comprehensive iRacing statistics and analytics platform built with Next.js, TypeScript, and tRPC. Features real-time race data, driver performance tracking, and interactive dashboards to help sim racers improve their skills.</p>
   <a href="https://github.com/Soto-J/gitgud-racing"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=gitgud-racing&theme=radical" alt="GitGud Racing"> 
   </a> 
   
-  <br><br>
-  
   <a href="https://github.com/Soto-J/king-academy"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=king-academy&theme=radical" alt="King Academy"> 
   </a> 
+  <br><br>
+  
 </div> 
 
 <br> 
