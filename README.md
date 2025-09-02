@@ -56,9 +56,15 @@
 
 <div> 
   <h3>🌟 Featured Projects</h3> 
+  
+  <h4>🏎️ GitGud Racing</h4>
+  <p>A comprehensive iRacing statistics and analytics platform built with Next.js, TypeScript, and tRPC. Features real-time race data, driver performance tracking, and interactive dashboards to help sim racers improve their skills.</p>
   <a href="https://github.com/Soto-J/gitgud-racing"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=gitgud-racing&theme=radical" alt="GitGud Racing"> 
   </a> 
+  
+  <br><br>
+  
   <a href="https://github.com/Soto-J/king-academy"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=king-academy&theme=radical" alt="King Academy"> 
   </a> 
@@ -87,14 +93,13 @@
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a> 
   <a href="mailto:john.soto.dev@gmail.com"> 
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /> 
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=alt="Email" /> 
   </a> 
 </div>
 
 <hr> 
 
 <p align="center">⭐️ From <a href="https://github.com/Soto-J">johnsoto</a></p>
-
 
 <!--
 For custom badges I used this repo
