@@ -37,23 +37,6 @@
 <br>
 
 <div> 
-  <h3>🛠️ Tech Stack</h3> 
-  <pre> 
-    <code>
-      const johnSoto = { 
-        languages: ["JavaScript", "Python", "TypeScript", "Java", "C++", "Rust"], 
-        frontend: ["React", "Vue.js", "HTML5", "CSS3", "Tailwind CSS"], 
-        backend: ["Node.js", "Express", "Django", "Flask"], 
-        databases: ["PostgreSQL", "MongoDB", "MySQL"], 
-        tools: ["Git", "Docker", "AWS", "Vercel"], 
-        currentFocus: "Full-stack development with modern frameworks" 
-      }
-    </code> 
-  </pre> 
-</div>
-
-<br>
-<div> 
   <h3>🛠️ Tech Stack</h3>
   
   <h4>💻 Languages</h4>
