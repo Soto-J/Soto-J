@@ -8,7 +8,7 @@
 </p> 
 
 <div> 
-  <h3>🚀 What I'm Up To</h3> 
+  <h3>🔭 What I'm Up To</h3> 
 </div> 
 
 <div> 
@@ -41,7 +41,7 @@
   <pre> 
     <code>
       const johnSoto = { 
-        languages: ["JavaScript", "Python", "TypeScript", "Java"], 
+        languages: ["JavaScript", "Python", "TypeScript", "Java", "C++", "Rust"], 
         frontend: ["React", "Vue.js", "HTML5", "CSS3", "Tailwind CSS"], 
         backend: ["Node.js", "Express", "Django", "Flask"], 
         databases: ["PostgreSQL", "MongoDB", "MySQL"], 
@@ -56,12 +56,23 @@
 
 <div> 
   <h3>🌟 Featured Projects</h3> 
-  <a href="https://github.com/YOUR_USERNAME/REPO_NAME"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical" alt="Featured Project"> 
+  <a href="https://github.com/Soto-J/gitgud-racing"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=gitgud-racing&theme=radical" alt="GitGud Racing"> 
+  </a> 
+  <a href="https://github.com/Soto-J/king-academy"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=king-academy&theme=radical" alt="King Academy"> 
   </a> 
 </div> 
 
 <br> 
+
+<div> 
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soto-J&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soto-J&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <div> 
   <h3>🤝 Let's Connect!</h3> 
@@ -72,18 +83,17 @@
   <a href="https://www.johnsoto.dev/"> 
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B6B?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio" />
   </a> 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"> 
+  <a href="https://linkedin.com/in/john-soto-dev"> 
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a> 
-  <a href="mailto:YOUR_EMAIL"> 
+  <a href="mailto:john.soto.dev@gmail.com"> 
     <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /> 
   </a> 
 </div>
 
 <hr> 
 
-<p align="center">⭐️ From <a href="https://github.com/YOUR_USERNAME">johnsoto</a></p>
-
+<p align="center">⭐️ From <a href="https://github.com/Soto-J">johnsoto</a></p>
 
 
 <!--
