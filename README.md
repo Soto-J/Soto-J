@@ -9,7 +9,6 @@
 </p>
 
 ---
-<br />
 
 <!-- What I'm Working On -->
 <h2>🚀 What I'm Working On</h2>
@@ -20,12 +19,11 @@
 - 🔍 Always improving in Rust, system design, and full-stack development  
 
 ---
-<br />
 
 <!-- Tech Stack -->
 <h2>🛠 Tech Stack</h2>
-  
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
 <h3>💻 Programming Languages</h3>
 <p>
@@ -66,11 +64,9 @@
 </p>
 
 ---
-<br />
 
 <!-- Featured Projects -->
 <h2>🌟 Featured Projects</h2>
-
 
 <a href="https://github.com/Soto-J/race-vision"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=race-vision&theme=radical" alt="Race Vision"> 
@@ -83,7 +79,6 @@
 </a>
 
 ---
-<br />
 
 <!-- Stats -->
 <h2>📊 GitHub Stats</h2>
@@ -93,7 +88,6 @@
 </p>
 
 ---
-<br />
 
 <!-- Contact -->
 <h2>🤝 Let's Connect!</h2>
