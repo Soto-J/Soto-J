@@ -23,8 +23,6 @@
 <!-- Tech Stack -->
 <h2>🛠 Tech Stack</h2>
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-
 <h3>💻 Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
