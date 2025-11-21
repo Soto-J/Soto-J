@@ -13,7 +13,7 @@
 <!-- What I'm Working On -->
 <h2>🚀 What I'm Working On</h2>
 
-- 🏎️ Building **GitGud Racing** — a motorsport data & telemetry platform  
+- 🏎️ Building **GitGud Racing** — a motorsport data & user management platform  
 - 🛠 Developing **Race Vision**, a Rust + Tauri desktop overlay  
 - 🌱 Exploring **Three.js**, WebGL, and real-time rendering  
 - 🔍 Always improving in Rust, system design, and full-stack development  
