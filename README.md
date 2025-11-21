@@ -8,93 +8,98 @@
   into new technologies.
 </p>
 
-<div> 
-  <h3>🚀 What I'm Working On</h3>
-</div>
+---
+<br />
 
-<div><span>🔭 Building <strong>Race Vision</strong> — a motorsport telemetry platform</span></div>
-<br>
-<div><span>👯 Open to collaborating on impactful open-source projects</span></div>
-<br>
+<!-- What I'm Working On -->
+<h2>🚀 What I'm Working On</h2>
 
-<div><span>💬 Ask me about full-stack development, Rust, Next.js, or anything tech!</span></div>
+- 🏎️ Building **GitGud Racing** — a motorsport data & telemetry platform  
+- 🛠 Developing **Race Vision**, a Rust + Tauri desktop overlay  
+- 🌱 Exploring **Three.js**, WebGL, and real-time rendering  
+- 🔍 Always improving in Rust, system design, and full-stack development  
 
-<br>
+---
+<br />
 
-<div> 
-  <h3>🛠️ Tech Stack</h3>
+<!-- Tech Stack -->
+<h2>🛠 Tech Stack</h2>
   
-  <h4>💻 Programming Languages</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+
+<h3>💻 Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>  
+
+<h3>⚙️ Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tauri-FBBF24?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axum-0D0D0D?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-80E47C?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
   
-  <h4>📚 Frameworks & Libraries</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  </p>
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
   
-  <h4>🗄️ Databases</h4>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </p>
-  
-  <h4>🔧 Developer Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  </p>
-</div>
+<h3>🧰 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+<br />
+
+<!-- Featured Projects -->
+<h2>🌟 Featured Projects</h2>
 
 
-<br>
+<a href="https://github.com/Soto-J/race-vision"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=race-vision&theme=radical" alt="Race Vision"> 
+</a> 
+<a href="https://github.com/Soto-J/live-bootcamp-project"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=live-bootcamp-project&theme=radical" alt="live-bootcamp-project"> 
+</a>   
+<a href="https://github.com/Soto-J/gitgud-racing"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=gitgud-racing&theme=radical" alt="GitGud Racing"> 
+</a>
 
-<div> 
-  <h3>🌟 Featured Projects</h3> 
-  
-  <a href="https://github.com/Soto-J/race-vision"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=race-vision&theme=radical" alt="Race Vision"> 
-  </a> 
-  <a href="https://github.com/Soto-J/live-bootcamp-project"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=live-bootcamp-project&theme=radical" alt="live-bootcamp-project"> 
-  </a> 
-  
-  <a href="https://github.com/Soto-J/gitgud-racing"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soto-J&repo=gitgud-racing&theme=radical" alt="GitGud Racing"> 
-  </a> 
-</div>
+---
+<br />
 
-<br>
+<!-- Stats -->
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soto-J&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soto-J&theme=radical" />
+</p>
 
-<div> 
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Soto-J&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soto-J&theme=radical" alt="GitHub Streak" />
-</div>
+---
+<br />
 
-<br>
+<!-- Contact -->
+<h2>🤝 Let's Connect!</h2>
+<p>I'm always open to new opportunities, collaborations, and tech conversations.</p>
 
-<div>
-  <h3>🤝 Let's Connect!</h3>
-  <p>Always open to new opportunities, collaborations, and tech conversations.</p>
-</div>
-
-<div>
+<p>
   <a href="https://www.johnsoto.dev/">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B6B?style=for-the-badge&logo=world&logoColor=white" />
   </a>
@@ -104,9 +109,9 @@
   <a href="mailto:john.soto.dev@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white" />
   </a>
-</div>
+</p>
 
-<hr>
+<hr />
 
 <p align="center">⭐️ From <a href="https://github.com/Soto-J">johnsoto</a></p>
 
